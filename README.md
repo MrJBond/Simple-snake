@@ -1,2 +1,2 @@
 # Simple-snake
-Simple console c++ game
+Simple console game in C++
